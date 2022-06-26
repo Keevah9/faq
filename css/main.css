@@ -47,8 +47,6 @@ p{
     background: white;
     border-radius: 10px;
     box-shadow: 0 5px 10px grey;
-    border: 2px solid red;
-    /* min-height: 5rem; */
 }
 .singleQuestion{
     display: flex;
